@@ -24,7 +24,8 @@ as the registartion and login will be done if the database is set properly now w
 ![TODO](https://github.com/Vish2476/HAVI_VISHNU/blob/main/images/todo_user.png) 
 for the admin functions we will go to <a href="https://github.com/Vish2476/HAVI_VISHNU/blob/main/admin/">/admin</a>
 <br>
-now the admin credentials for this program is <br>
+now the admin credentials for this program is <br>.
+
 - 👯 username : admin
 - 👯 password : password
 
@@ -32,3 +33,8 @@ after logging in to admin you check all the user details(status) and manage them
 
 - Backend code :- PHP,JS,Mysql(PHPMYADMIN)
 - Frontend code :- HTML,CSS,JS,Materialized CSS
+
+In simple words download the ZIP file from git repo then add to the htdocs(Suitable folder) and add the file inside database folder to your PHPMYADMIN(Suitable MYSql) and RUN then you will have the application ready.
+
+# Django(Python)
+But i have tried the implementation in the Django(Python Framework)
