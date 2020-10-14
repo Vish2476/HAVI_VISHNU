@@ -10,5 +10,6 @@ The main reason for this repositary is to give a solution for the task given to 
 # PHP+Mysql
 Now firsly I have used the materalised and readymade (CSS & JS Frameworks)
 the main content is from PHP as I dont know how to deploy the (PHP+MYSQL) I will start with the process of set up
-
+https://github.com/Vish2476/HAVI_VISHNU/blob/main/images/admin_profile.png
+![ADMIN PROFILE](https://github.com/Vish2476/HAVI_VISHNU/blob/main/images/admin_profile.png?raw=true)
 
