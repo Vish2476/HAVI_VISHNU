@@ -19,11 +19,16 @@ so by the time i start please do go to the link and can check all the images for
 
 initially we do start by creating the database in PHPMYADMIN by adding the file inside <a href="https://github.com/Vish2476/HAVI_VISHNU/blob/main/database/">Database</a> folder 
 </hr>
-next we do start the XAMPP or related PHP server and run the <a href="https://github.com/Vish2476/HAVI_VISHNU/blob/main/index.php">Index.php</a>
+next we do start the XAMPP or related PHP server and run the <a href="https://github.com/Vish2476/HAVI_VISHNU/blob/main/index.php">Index.php</a><br>
 as the registartion and login will be done if the database is set properly now we can use a small TODO application under the user 
-![TODO](https://github.com/Vish2476/HAVI_VISHNU/blob/main/images/todo_user.png?raw=true) 
+![TODO](https://github.com/Vish2476/HAVI_VISHNU/blob/main/images/todo_user.png) 
 for the admin functions we will go to <a href="https://github.com/Vish2476/HAVI_VISHNU/blob/main/admin/">/admin</a>
 <br>
-now the admin credentials for this program is 
+now the admin credentials for this program is <br>
 - 👯 username : admin
 - 👯 password : password
+
+after logging in to admin you check all the user details(status) and manage them too.
+
+- Backend code :- PHP,JS,Mysql(PHPMYADMIN)
+- Frontend code :- HTML,CSS,JS,Materialized CSS
