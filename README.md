@@ -25,5 +25,5 @@ as the registartion and login will be done if the database is set properly now w
 for the admin functions we will go to <a href="https://github.com/Vish2476/HAVI_VISHNU/blob/main/admin/">/admin</a>
 <br>
 now the admin credentials for this program is 
-- username : admin
-- password : password
+- 👯 username : admin
+- 👯 password : password
