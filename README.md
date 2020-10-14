@@ -1,0 +1,8 @@
+# HAVI_VISHNU
+The interview question solution 
+
+
+### The solution begins her
+## I have designed a PHP+Mysql application and Django(Python framework Application)
+
+The main reason for this repositary is to give a solution for the task given to me asking to do the admin panel based login & registration web page  
