@@ -38,3 +38,44 @@ In simple words download the ZIP file from git repo then add to the htdocs(Suita
 
 # Django(Python)
 But i have tried the implementation in the Django(Python Framework) to make use of the built in functionalities of Django
+<a href="http://vishnu0766.pythonanywhere.com/admin/">ADMIN -Django</a>
+- username :- Vishnu
+- password :- mevishnu2476
+
+<a href="http://vishnu0766.pythonanywhere.com/">DIsplay of Admin entered values</a>
+
+I initaially should have started with the Django but thought of doing in the PHP and I have done half the requirements so the intial setup is 
+
+- python :- py --version
+- Django :- pip install Django
+we now check the versions 
+- python --version
+- django --version
+
+now we do request the Django admin to start a project
+- django-admin startproject ["project name"]
+now we start a app inside the project 
+- django-admin startapp ["app_name"]
+
+we now migrate the contents 
+- python manage.py migrate 
+now we get a list of migrated and then we type 
+- python manage.py runserver
+we get a ready made django page but we do add are urls ,views , models etc..., as per the requirements and migrate the required again and run
+
+- python manage.py migrate
+- python manage.py runserver
+""" (django) 04:57 ~/dprojx $ python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+System check identified no issues (0 silenced).
+October 15, 2020 - 04:58:27
+Django version 3.1.2, using settings 'dprojx.settings'
+Starting development server at http://127.0.0.1:8000/ """
+we get a local server runnning 
+
+in this scenerio I have used the  <a href="https://www.pythonanywhere.com/">pythonanywhere</a> for hosting which wprks same as the local command line 
+
+I have addded the zip files under the Zip folder for the Django codes
+
+Thank you for giving the chance.
